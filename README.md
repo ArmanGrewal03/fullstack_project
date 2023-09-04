@@ -7,13 +7,8 @@ This project presents the latest movies and allows users to add, edit, and view 
 
 ## Table of Contents
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Installation(#Installation)
 
 ## Features
 - Access to the latest movies at all times.
