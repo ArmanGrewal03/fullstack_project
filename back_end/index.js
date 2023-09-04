@@ -4,9 +4,10 @@ import mongodb from "mongodb"
 import ReviewsDAO from "./dao/ReviewsDAO.js"
 
 const MongoClient = mongodb.MongoClient
-const mongoPass="g397XugjlzsPtme4"
+const mongoPass="ADD PASS"
+const mongoUsername="ADD USERNAME"
 
-const uri = `mongodb+srv://armangrewal01:${mongoPass}@cluster0.u3cgbgd.mongodb.net/?retryWrites=true&w=majority`
+const uri = `mongodb+srv://${mongoUsername}:${mongoPass}@cluster0.u3cgbgd.mongodb.net/?retryWrites=true&w=majority`
 
 
 const port = 8000
