@@ -1,7 +1,7 @@
 
-const APILINK ="https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=4f499339192b79ce79e918f0ff71ea69&page=1";
+const APILINK ="https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=INSERT KEY HERE &page=1";
 const IMG_PATH ="https://image.tmdb.org/t/p/w1280";
-const SEARCHAPI ="https://api.themoviedb.org/3/search/movie?&api_key=4f499339192b79ce79e918f0ff71ea69&query=";
+const SEARCHAPI ="https://api.themoviedb.org/3/search/movie?&api_key=INSERT KEY HERE&query=";
 
 
 
