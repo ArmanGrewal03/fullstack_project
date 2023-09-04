@@ -8,7 +8,7 @@ This project presents the latest movies and allows users to add, edit, and view 
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
-- [Installation(#Installation)
+- [Installation](#Installation)
 
 ## Features
 - Access to the latest movies at all times.
